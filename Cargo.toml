@@ -2,7 +2,7 @@
 name = "arch-opencl-kernel"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-opencl-kernel component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-opencl-kernel component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-opencl-kernel"
 
